@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Extract posts and generate a response
-// @author       You
+// @author       Mr. Robot
 // @match        https://hackforums.net/showthread.php*
 // @grant        none
 // ==/UserScript==
